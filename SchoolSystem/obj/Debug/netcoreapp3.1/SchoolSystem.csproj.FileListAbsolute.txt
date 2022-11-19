@@ -1,0 +1,87 @@
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.AssemblyReference.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Form1.resources
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.GenerateResource.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfoInputs.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfo.cs
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.AssemblyReference.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Form1.resources
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.GenerateResource.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfoInputs.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfo.cs
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.exe
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.deps.json
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.runtimeconfig.json
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.runtimeconfig.dev.json
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.pdb
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.CopyComplete
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.dll
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.pdb
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.genruntimeconfig.cache
+C:\Angelova_Chapai_R\5_RS\GPI Win Forms - 11b\Profil12\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Properties.Resources.resources
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.exe
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.deps.json
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.runtimeconfig.json
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.runtimeconfig.dev.json
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.dll
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.pdb
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.AssemblyReference.cache
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Form1.resources
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Properties.Resources.resources
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.GenerateResource.cache
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfoInputs.cache
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfo.cs
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.CopyComplete
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.dll
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.pdb
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.genruntimeconfig.cache
+C:\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Form2.resources
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.exe
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.deps.json
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.runtimeconfig.json
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.runtimeconfig.dev.json
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.dll
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.pdb
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub_RA\SchoolSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.AssemblyReference.cache
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Form1.resources
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Form2.resources
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.Properties.Resources.resources
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.GenerateResource.cache
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfoInputs.cache
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfo.cs
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.CoreCompileInputs.cache
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.CopyComplete
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.dll
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.pdb
+D:\GitHub_RA\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.genruntimeconfig.cache

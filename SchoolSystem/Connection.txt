@@ -1,0 +1,6 @@
+https://qawithexperts.com/article/c-sharp/connect-to-sql-server-in-c-example-using-console-application/178
+
+
+static string connString = @"Data Source=(LocalDB)\MSSQLLocalDB;Database=School;" + "Integrated Security=True;"; 
+        
+        private static readonly string queryString = "SELECT idStudent, name, surname," + " family FROM Student";
